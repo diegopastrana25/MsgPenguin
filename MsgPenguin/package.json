@@ -1,0 +1,24 @@
+{
+  "name": "msgpenguin",
+  "version": "1.0.0",
+  "description": "MsgPenguin",
+  "main": "main.js",
+  "author": "Diego Pastrana",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "build": {
+    "appId": "com.diegopastrana.msgpenguin",
+    "productName": "MsgPenguin",
+    "win": {
+      "target": "nsis",
+      "icon": "build/icon.ico"
+    }
+  },
+  "devDependencies": {
+    "electron": "^28.1.0",
+    "electron-builder": "^24.13.3"
+  }
+}

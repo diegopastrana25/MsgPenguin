@@ -1,0 +1,10 @@
+(Before compiling, make sure you have Node.js)
+
+1. Install dependencies (optional)
+npm install
+
+2. Install electron-builder
+npm install --save-dev electron-builder
+
+3. Build the .exe
+npm run dist
