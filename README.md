@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diegopastrana25/MsgPenguin/main/logo.png" alt="MsgPenguin Logo" width="320"/>
+  <img src="https://raw.githubusercontent.com/diegopastrana25/MsgPenguin/refs/heads/main/MsgPenguin/msgpenguin.png" alt="MsgPenguin Logo" width="320"/>
 </p>
