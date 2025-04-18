@@ -1,0 +1,82 @@
+  .border3d {
+    background: #46A3FF;
+    border-radius: 15px;
+    color: #1c1917;
+    box-shadow:
+      inset 3px 3px 6px rgba(0, 0, 0, 0.2),
+      inset -3px -3px 6px rgba(255, 255, 255, 0.25),
+      5px 5px 12px rgba(0, 0, 0, 0.3),
+      -3px -3px 10px rgba(255, 255, 255, 0.1);
+    transition: all 0.2s ease, transform 0.2s ease;
+    transform: translateY(0);
+    cursor: pointer;
+  }
+  
+  .border3d:active {
+    background: #4094e9;
+    box-shadow:
+      inset 2px 2px 4px rgba(0, 0, 0, 0.35),
+      inset -2px -2px 4px rgba(255, 255, 255, 0.15),
+      2px 2px 8px rgba(0, 0, 0, 0.5),
+      -1px -1px 6px rgba(255, 255, 255, 0.05);
+    transform: translateY(2px) scale(0.985);
+  }
+  
+  .input3d {
+    background: #ffffff;
+    border-radius: 15px;
+    color: #1c1917;
+    border: none;
+    padding: 0.75rem 1rem;
+    box-shadow:
+      inset 3px 3px 6px rgba(0, 0, 0, 0.15),
+      inset -3px -3px 6px rgba(255, 255, 255, 0.6),
+      4px 4px 12px rgba(0, 0, 0, 0.2),
+      -3px -3px 8px rgba(255, 255, 255, 0.4);
+    transition: all 0.2s ease, transform 0.2s ease;
+    width: 100%;
+    text-align: center;
+    font-size: 1rem;
+  }
+  
+  .input3d:focus {
+    outline: none;
+    box-shadow:
+      inset 2px 2px 4px rgba(0, 0, 0, 0.25),
+      inset -2px -2px 4px rgba(255, 255, 255, 0.5),
+      3px 3px 10px rgba(0, 0, 0, 0.25),
+      -2px -2px 6px rgba(255, 255, 255, 0.3);
+  }
+  
+  .input3d:active {
+    transform: translateY(2px);
+  }
+  
+  .select3d {
+  background: #ffffff;
+  border-radius: 15px;
+  color: #1c1917;
+  border: none;
+  padding: 0.75rem 1rem;
+  box-shadow:
+    inset 3px 3px 6px rgba(0, 0, 0, 0.15),
+    inset -3px -3px 6px rgba(255, 255, 255, 0.6),
+    4px 4px 12px rgba(0, 0, 0, 0.2),
+    -3px -3px 8px rgba(255, 255, 255, 0.4);
+  transition: all 0.2s ease, transform 0.2s ease;
+  width: 100%;
+  font-size: 1rem;
+}
+
+.select3d:focus {
+  outline: none;
+  box-shadow:
+    inset 2px 2px 4px rgba(0, 0, 0, 0.25),
+    inset -2px -2px 4px rgba(255, 255, 255, 0.5),
+    3px 3px 10px rgba(0, 0, 0, 0.25),
+    -2px -2px 6px rgba(255, 255, 255, 0.3);
+}
+
+.select3d:active {
+  transform: translateY(2px);
+}
