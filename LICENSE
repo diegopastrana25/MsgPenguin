@@ -1,5 +1,4 @@
 MIT License
-
 Copyright (c) 2025 Diego Pastrana
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -13,15 +12,59 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
-PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
-FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT
+HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
----
+-------------------------------------------------------------------------------
+ANNEX — Comprehensive Disclaimer of Liability
+-------------------------------------------------------------------------------
 
-MsgPenguin is an independent open-source project and is not affiliated with,
-endorsed by, or sponsored by WhatsApp Inc., Meta Platforms, Inc., or any other
-messaging service. All trademarks and registered trademarks are the property
-of their respective owners.
+MsgPenguin is an independent, open‑source, **educational and experimental**
+project. It is **not** affiliated with, endorsed by, or sponsored by WhatsApp Inc.,
+Meta Platforms Inc., or any other messaging service. All trademarks remain the
+property of their respective owners.
+
+**The author expressly disclaims any and all liability** for:
+
+* any use, **fork**, modification, distribution, deployment, or commercialization of this
+  software or any derivative work;
+* any violation of the Terms of Service of WhatsApp or any other third‑party
+  platform carried out with this software or its **forks**;
+* any direct, indirect, incidental, consequential, or exemplary damages,
+  including (but not limited to) data loss, account suspension, service bans,
+  or legal actions arising from the use or misuse of this project.
+
+By obtaining, compiling, running, modifying, **forking**, or distributing this software,
+**you acknowledge that you do so entirely at your own risk and under your sole
+responsibility**. The author shall not be held liable under any circumstances.
+
+Please use this software responsibly and ethically.
+
+-------------------------------------------------------------------------------
+ANEXO — Descargo de responsabilidad integral (versión en español)
+-------------------------------------------------------------------------------
+
+MsgPenguin es un proyecto independiente, de código abierto, **con fines
+exclusivamente educativos y experimentales**. **No** está afiliado, patrocinado
+ni respaldado por WhatsApp Inc., Meta Platforms Inc. ni por ningún otro servicio
+de mensajería. Todas las marcas registradas mencionadas pertenecen a sus
+respectivos dueños.
+
+**El autor declina expresa y absolutamente cualquier responsabilidad** por:
+
+* el uso, **fork**, modificación, distribución, despliegue o comercialización de este
+  software o de cualquier obra derivada o **fork**;
+* cualquier violación de los Términos de Servicio de WhatsApp o de terceros que
+  se realice con este software o con sus **forks**;
+* cualquier daño directo o indirecto, incluyendo (entre otros) pérdida de datos,
+  suspensión de cuentas, bloqueos de servicio o acciones legales derivadas del
+  uso o mal uso de este proyecto.
+
+Al obtener, compilar, ejecutar, modificar, **forkear** o distribuir este software, **usted
+reconoce que lo hace bajo su propio riesgo y asume toda responsabilidad**.
+El autor no será responsable en ningún caso.
+
+Por favor, utilice este software de forma responsable y ética.
